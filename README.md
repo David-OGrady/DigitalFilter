@@ -1,4 +1,4 @@
-# ddaDigitalFilter
+# Digital Filter design and implementation
 Repository for the design and in code implementation and realization of a digital filter.
 Code repository for designing an IIR digital filter. 
 Properties of the filter are as follows, the digitl filter must NOT be a butterworth filter:
